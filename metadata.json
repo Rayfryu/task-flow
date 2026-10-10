@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Minimalist personal project and task manager with Kanban board, monthly calendar, and local data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
